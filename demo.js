@@ -8013,7 +8013,7 @@ var initialState = {
   // Options set on initialization
   api: 'https://api.mapbox.com/directions/v5/',
   profile: 'mapbox/driving-traffic',
-  alternatives: true,
+  alternatives: false,
   congestion: false,
   unit: 'imperial',
   flyTo: true,
